@@ -1,0 +1,17 @@
+[
+  {
+    "saleType":"SingleSale",
+    "productType":"apple",
+    "productPrice":"10"
+  }, {
+  	"saleType":"MultipleSale",
+    "productType":"apple",
+    "productPrice":"10",
+    "productQuantity":"10"
+  }, {
+  	"saleType":"SaleWithAdjustment",
+    "productType":"apple",
+    "productPrice":"10",
+    "adjustmentType":"ADD"
+  }
+ ]
